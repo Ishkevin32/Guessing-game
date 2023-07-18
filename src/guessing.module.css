@@ -1,0 +1,11 @@
+div {
+    text-align: center;
+    font-family: 'VT323', monospace;
+    font-size: larger;
+    font-weight: 400;
+}
+.numOfGuesses{
+    color:yellow;
+    background-color: dodgerblue;
+    padding: .5px 4px;
+}
